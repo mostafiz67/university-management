@@ -1,0 +1,12 @@
+E:\.net Application Development\All File\Class_Practice\Practice fron this pc\UniversityManagementSystem\UniManagementSystem\UniManagementSystem\bin\UniManagementSystem.dll.config
+E:\.net Application Development\All File\Class_Practice\Practice fron this pc\UniversityManagementSystem\UniManagementSystem\UniManagementSystem\bin\UniManagementSystem.dll
+E:\.net Application Development\All File\Class_Practice\Practice fron this pc\UniversityManagementSystem\UniManagementSystem\UniManagementSystem\bin\UniManagementSystem.pdb
+E:\.net Application Development\All File\Class_Practice\Practice fron this pc\UniversityManagementSystem\UniManagementSystem\UniManagementSystem\obj\Release\UniManagementSystem.csprojResolveAssemblyReference.cache
+E:\.net Application Development\All File\Class_Practice\Practice fron this pc\UniversityManagementSystem\UniManagementSystem\UniManagementSystem\obj\Release\UniManagementSystem.dll
+E:\.net Application Development\All File\Class_Practice\Practice fron this pc\UniversityManagementSystem\UniManagementSystem\UniManagementSystem\obj\Release\UniManagementSystem.pdb
+C:\Users\USER\Desktop\UniManagementSystem\UniManagementSystem\bin\UniManagementSystem.dll.config
+C:\Users\USER\Desktop\UniManagementSystem\UniManagementSystem\bin\UniManagementSystem.dll
+C:\Users\USER\Desktop\UniManagementSystem\UniManagementSystem\bin\UniManagementSystem.pdb
+C:\Users\USER\Desktop\UniManagementSystem\UniManagementSystem\obj\Release\UniManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\UniManagementSystem\UniManagementSystem\obj\Release\UniManagementSystem.dll
+C:\Users\USER\Desktop\UniManagementSystem\UniManagementSystem\obj\Release\UniManagementSystem.pdb
